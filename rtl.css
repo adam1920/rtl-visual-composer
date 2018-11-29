@@ -855,11 +855,6 @@ i.icon {
     right: 50%;
     left: auto;
 }
-.vc_toggle.vc_toggle_arrow .vc_toggle_icon::after,
-.vc_toggle.vc_toggle_arrow .vc_toggle_icon::before {
-    margin-right: -5px;
-    margin-left:0;
-}
 .vc_toggle_default .vc_toggle_icon::after,
 .vc_toggle_default .vc_toggle_icon::before {
     right: 50%;
